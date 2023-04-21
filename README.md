@@ -7,7 +7,7 @@ Este pacote oferece a função `consulta()` que permite verificar se um CEP é v
 Para instalar o pacote, basta executar o seguinte comando:
 
 
-    pip install 
+     pip install -i https://test.pypi.org/simple/ cep-consulta-gvolpatolima
 
 
 ## Uso
