@@ -16,7 +16,9 @@ Para utilizar a função consulta(), primeiro importe o pacote:
 
 
  
-    import 
+    from consulta_cep_gvolpatolima import consulta()
+
+ 
 
 Em seguida, chame a função consulta() passando o CEP desejado como parâmetro:
 
