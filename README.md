@@ -45,4 +45,4 @@ Contribuições são sempre bem-vindas! Se você encontrou um bug ou tem alguma 
 
 ## Licença
 
-Este pacote é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este pacote é distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
